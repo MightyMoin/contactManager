@@ -9,7 +9,7 @@ import Sidenav from './components/Layout/Sidenav';
 import About from './components/pages/About';
 import Error from './components/pages/Error';
 import { Provider } from './context';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 
 function App() {
   return (
