@@ -1,0 +1,17 @@
+
+.nav{
+    position: absolute;
+    max-width: 80px;
+    min-width: 80px;
+    min-height: 80vmax;
+    background-color: #e7dfd5;
+}
+.nav-elem{
+    width: 100%;
+    font-size: xx-large;
+}
+i{cursor: pointer;
+}
+.nav-heading{
+    font-size: xx-small;
+}
