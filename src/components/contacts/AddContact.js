@@ -119,6 +119,14 @@ class AddContact extends Component {
                     onChange={this.onType}
                     error={errors.phone}
                   />
+                  <TextInputGroup
+                    type="text"
+                    name="phone"
+                    lable="Phone:"
+                    value={phone}
+                    onChange={this.onType}
+                    error={errors.phone}
+                  />
                   <div className="text-center">
                     <input
                       type="submit"
