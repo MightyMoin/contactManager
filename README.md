@@ -4,6 +4,10 @@ After ## Cloning :
 run `npm i` to install all the dependencies.
 then `npm start` to run the application
 
+After ## Cloning :
+run `npm i` to install all the dependencies.
+then `npm start` to run the application
+
 ## Available Scripts
 
 In the project directory, you can run:
